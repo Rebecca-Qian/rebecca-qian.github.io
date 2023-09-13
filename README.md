@@ -1,5 +1,4 @@
 # Academic template
-
 Simple academic template that is easy to deploy on Github page, and relatively
 easy to customise furthermore using css. Here is the [live](https://simongravelle.github.io/) version.
 
