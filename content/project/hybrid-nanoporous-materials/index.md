@@ -8,7 +8,7 @@ external_link: ""
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/Gravellesimon
+#  url:
 slides: example
 summary: Ongoing MSCA project
 tags:
